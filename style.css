@@ -1,0 +1,12 @@
+h1{
+  display: flex;
+  justify-content: center;
+  background-color: rgb(229, 58, 58);
+  color: white;
+  border-radius: 7px;
+}
+
+#output{
+    display: flex;
+    justify-content: center;
+}
